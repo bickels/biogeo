@@ -6,3 +6,4 @@ temp/
 .DS_Store
 scripts_unused/
 fun_unused/
+prediction.csv
